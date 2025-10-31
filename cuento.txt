@@ -1,2 +1,7 @@
 la pata sola
+<<<<<<< HEAD
 En un pueblo habitan personas muy felices con sus familias, pero en las noches se escuchan lloros de una mujer sufriendo gritando y gritaba que se iba a llevar a los adultos.
+=======
+
+Entonces en esa noches donde asechaba la pata sola, cualquier individuo que se acercara en el bosque donde ella habitaba podia atacar y llevarse a cualquiera para que desaparecieran del pueblo y no se hallara rastros de ninguna persona.
+>>>>>>> 22909d4fc3c29f242a16edad430661105f7c4038
